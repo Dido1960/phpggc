@@ -1,3 +1,7 @@
+# 添加的payload
+thinkphp/rce2
+
+
 # PHPGGC: PHP Generic Gadget Chains
 
 *PHPGGC is a library of unserialize() payloads along with a tool to generate them, from command line or programmatically*.
